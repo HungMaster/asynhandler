@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AsynTaskThreadHandler</string>
+    <string name="activity_main_txt_title">Asyn Handler</string>
+    <string name="activity_main_txt_count_time">0</string>
+    <string name="btn_start_time">Start</string>
+    <string name="btn_start_download">Download</string>
+    <string name="message_finish_time">Finish time</string>
+</resources>
